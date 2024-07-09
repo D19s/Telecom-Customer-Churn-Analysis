@@ -40,3 +40,9 @@ A youthful demographic dominates at 83.79%, with a churn rate of 23.61%, while t
 6.  𝐄𝐦𝐛𝐫𝐚𝐜𝐞 𝐄𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: Seamlessly integrate emerging technologies to enhance the customer experience and prevent future challenges.
 
 Implementing these strategies can help reduce churn, enhance customer satisfaction, and cultivate a loyal customer base.
+
+Special Thanks to Satyajit (https://bit.ly/SatyajitPattnaik)
+
+![PowerBI](https://github.com/D19s/Telecom-Customer-Churn-Analysis/assets/39941517/70e89643-0250-44ac-9174-566f2d1eb77f)
+
+
